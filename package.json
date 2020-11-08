@@ -7,6 +7,9 @@
       "packages/*"
     ]
   },
+  "scripts": {
+    "client": "yarn workspace client start"
+  },
   "devDependencies": {
     "typescript": "3.7.5"
   }
