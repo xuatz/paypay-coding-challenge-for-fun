@@ -1,5 +1,11 @@
 # Full Stack Developer Challenge
 
+With no time limit, I'm gonna try complete all the features with some new libraries that I've always wanted to try.
+
+1. Strapi
+2. GraphQL
+3. TailwindCSS
+
 ## Get Started
 
 ### Environment Requirements
