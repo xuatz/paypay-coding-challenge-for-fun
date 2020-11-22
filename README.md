@@ -2,8 +2,8 @@
 
 With no time limit now, I'm gonna try complete all the features with some new libraries that I've always wanted to try.
 
-1. Strapi
-2. GraphQL
+1. ~~Strapi~~ Maybe supabase instead lol
+2. ~~GraphQL~~
 3. TailwindCSS
 
 ## Get Started
